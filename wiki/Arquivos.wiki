@@ -14,6 +14,7 @@
 <hr>
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Itens de Configuração</p></font></b></H2>
 <hr>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qSTN2V0FZMHh6UDg/edit?usp=sharing">Proposta Inicial do Curtindo Recife</a> <br>
 <a href="https://docs.google.com/spreadsheet/ccc?key=0AphIXVRKD54qdEV5TkNfMUxuUFFqNUJTN01XNGZjeFE&usp=sharing">Definição dos processos de desenvolvimento do Curtindo Recife</a> <br>
 <a href="https://docs.google.com/document/d/1ZooqdOw4OP6cdMBX8ebn7KT3pLfvlgiMJ856CzQvAIs/edit?usp=sharing">Definição iniciais</a> <br>
 <a href="https://docs.google.com/forms/d/1SNK3_DJ2Dy4m8umagQt2btqaB1F1rqvW3BRoI6wzI08/viewform">Definições de Design</a> <br>
