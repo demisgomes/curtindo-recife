@@ -24,3 +24,15 @@
 <br>
 
 <hr>
+
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Auditorias</p></font></b></H2>
+<hr>
+<a href="">Auditoria 1</a> <br>
+<br>
+<hr>
+
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Casos de Teste</p></font></b></H2>
+<hr>
+<a href="">CT_1</a> <br>
+<br>
+<hr>
