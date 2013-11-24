@@ -12,9 +12,9 @@ Larissa Karollyne de Melo Ferreira: P.O. e Tester (larissakarollyne@gmail.com);<
 <hr>
 <H3 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Processo de desenvolvimento de software</p></font></b></H3>
 <hr>
-Blenda: Design e Desenvolvimento.(blendaguedes@hotmail.com);<br>
-Christian: Design e Desenvolvimento(c.spinelli93@gmail.com);<br> 
+Blenda Guedes: Design e Desenvolvimento.(blendaguedes@hotmail.com);<br>
+Christian Spinelli: Design e Desenvolvimento(c.spinelli93@gmail.com);<br> 
 Demis: Design (Suporte), Desenvolvimento e Banco (demismg72@gmail.com);<br>
-Renan: Desenvolvimento e Banco (renanufrpe@gmail.com);<br>
+Renan Azeredo: Desenvolvimento e Banco (renanufrpe@gmail.com);<br>
 <br>
 <hr>
