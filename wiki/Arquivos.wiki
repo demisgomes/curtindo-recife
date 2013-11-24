@@ -1,13 +1,1 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+||<a href="https://code.google.com/p/curtindo-recife/">Home</a>||<a href="https://code.google.com/p/curtindo-recife/wiki/DescricaoDoProjeto">Descrição Do Sistema</a>||<a href="https://code.google.com/p/curtindo-recife/wiki/Arquivos">Arquivos</a>||||<a href="https://code.google.com/p/curtindo-recife/wiki/Equipe">Equipe</a>||<a href="https://code.google.com/p/curtindo-recife/wiki/VideoAndApk">Video e apk</a>||
