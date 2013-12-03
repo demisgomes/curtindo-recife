@@ -5,6 +5,7 @@
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qSzJFTzJSaVQ3bms/edit?usp=sharing">Plano de Gerência de Configuração</a> <br>
 <a href="https://docs.google.com/document/d/1KgdPtRupGl9MykOPllCxpe6ppOvJGDOFovCTfduqdXU/edit?usp=sharing">Escopo</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qQkN2aHhfanJrZjQ/edit?usp=sharing">CANVAS</a> <br>
+<a href="https://docs.google.com/presentation/d/1IGnykAFea1atBdgBaLr4JF_6dltKNdTbCfQRcgE9ZDM/edit?usp=sharing">Protótipo</a> <br>
 <a href="https://code.google.com/p/curtindo-recife/wiki/Scrum">SCRUM</a> <br>
 
 
@@ -19,6 +20,7 @@
 <a href="https://docs.google.com/document/d/1ZooqdOw4OP6cdMBX8ebn7KT3pLfvlgiMJ856CzQvAIs/edit?usp=sharing">Definição iniciais</a> <br>
 <a href="https://docs.google.com/forms/d/1SNK3_DJ2Dy4m8umagQt2btqaB1F1rqvW3BRoI6wzI08/viewform">Definições de Design</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qRGJ2S1piYS0tQzQ/edit?usp=sharing">Configuração Android</a> <br>
+<a href="https://docs.google.com/document/d/1F9RRZ93kNTwehsuwfMQW8eko-Pkg1AmcUxKBCyjCrhg/edit?usp=sharing">1º Validação do protótipo</a> <br>
 
 
 <br>
