@@ -24,7 +24,6 @@
 <a href="https://docs.google.com/forms/d/1SNK3_DJ2Dy4m8umagQt2btqaB1F1rqvW3BRoI6wzI08/viewform">Definições de Design</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qRGJ2S1piYS0tQzQ/edit?usp=sharing">Configuração Android</a> <br>
 <a href="https://docs.google.com/document/d/1F9RRZ93kNTwehsuwfMQW8eko-Pkg1AmcUxKBCyjCrhg/edit?usp=sharing">1º Validação do protótipo</a> <br>
-
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qSXNHNGJkMFQ3LXc/edit?usp=sharing">Proposta Gerência</a> <br>
 <a href="https://docs.google.com/document/d/16Z53T6WW1OEWxIAHfHBAnqhJExyDUKOfV061HypUOFE/edit?usp=sharing">Detalhamento de requisitos - Sprint1</a> <br>
 
