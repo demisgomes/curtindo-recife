@@ -4,8 +4,11 @@
 <hr>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qSzJFTzJSaVQ3bms/edit?usp=sharing">Plano de Gerência de Configuração</a> <br>
 <a href="https://docs.google.com/document/d/1KgdPtRupGl9MykOPllCxpe6ppOvJGDOFovCTfduqdXU/edit?usp=sharing">Escopo</a> <br>
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qQkN2aHhfanJrZjQ/edit?usp=sharing">CANVAS</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qWlNlRlc2Mm50VTQ/edit?usp=sharing">Modelo de negócio</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qNGh4cW9uZ09Cd1U/edit?usp=sharing">Design Thinking</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qTmNqNHZYY1JnQXc/edit?usp=sharing">CANVAS</a> <br>
 <a href="https://docs.google.com/presentation/d/1IGnykAFea1atBdgBaLr4JF_6dltKNdTbCfQRcgE9ZDM/edit?usp=sharing">Protótipo</a> <br>
+<a href="https://docs.google.com/presentation/d/113zfQ1YegQalBiqhIQOVdpBn4bMJgnf6Ok_ugK4qqhQ/edit?usp=sharing">Protótipo - II</a> <br>
 <a href="https://code.google.com/p/curtindo-recife/wiki/Scrum">SCRUM</a> <br>
 
 
@@ -22,6 +25,9 @@
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qRGJ2S1piYS0tQzQ/edit?usp=sharing">Configuração Android</a> <br>
 <a href="https://docs.google.com/document/d/1F9RRZ93kNTwehsuwfMQW8eko-Pkg1AmcUxKBCyjCrhg/edit?usp=sharing">1º Validação do protótipo</a> <br>
 
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qSXNHNGJkMFQ3LXc/edit?usp=sharing">Proposta Gerência</a> <br>
+<a href="https://docs.google.com/document/d/16Z53T6WW1OEWxIAHfHBAnqhJExyDUKOfV061HypUOFE/edit?usp=sharing">Detalhamento de requisitos - Sprint1</a> <br>
+
 
 <br>
 
@@ -35,6 +41,6 @@
 
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Casos de Teste</p></font></b></H2>
 <hr>
-<a href="">CT_1</a> <br>
+<a href="https://docs.google.com/document/d/1omU4jMUqh_1VnM7J1B5l44SNQ9VFURHxymAIpoeWvas/edit?usp=sharing">CT_1</a> <br>
 <br>
 <hr>
