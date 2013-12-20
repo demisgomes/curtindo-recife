@@ -41,5 +41,6 @@
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Casos de Teste</p></font></b></H2>
 <hr>
 <a href="https://docs.google.com/document/d/1omU4jMUqh_1VnM7J1B5l44SNQ9VFURHxymAIpoeWvas/edit?usp=sharing">CT_1</a> <br>
+<a href="https://docs.google.com/document/d/1POQfcg90idQwK5KCIBRTPuwYw8m_HXduFMAv_Xwy8U4/edit?usp=sharing">CT_2</a> <br>
 <br>
 <hr>
