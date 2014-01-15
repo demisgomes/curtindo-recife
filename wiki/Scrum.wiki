@@ -5,6 +5,7 @@
 <a href="http://scrumy.com/curtindo-recife-prototipo">SRINT Protótipo</a> <br>
 <a href="http://scrumy.com/curtindo-recife-sprint1">SPRINT 1</a> <br>
 <a href="http://scrumy.com/curtindo-recife-sprint2">SPRINT 2</a> <br>
+<a href="http://scrumy.com/curtindo-recife-sprint3">SPRINT 3</a> <br>
 <br>
 <hr>
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Agile Development</p></font></b></H2>
